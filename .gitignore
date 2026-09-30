@@ -1,0 +1,12 @@
+uploads/**/*
+!uploads/**/.gitkeep
+!uploads/.htaccess
+logs/*
+!logs/.htaccess
+includes/config.local.php
+Web_Based_Chat_cpanel.zip
+_cpanel_stage/
+.DS_Store
+Thumbs.db
+*.log
+
